@@ -14,3 +14,6 @@ Adam Simpson is a frontend developer at Sparkbox with experience in Javascript, 
 
 ## **Drew Clemens - Sparkbox - UX Director**
 As Director of User Experience for Sparkbox, Drew is a steadfast voice for creating usable and useful work. With background in design, content strategy, and project management, Drew capitalizes on a love for people and content to drive projects toward clear communication. He has made a living on empathy, charm, and an uncanny ability for telling bad jokes.
+
+## **Philip Zastrow - Sparkbox Developer**
+Philip is a developer specializing in frontend design, CSS, and HTML. As a member of Sparkbox, Philip works with his teammates to build a better and unconstrained web. Philip has maintained a reputation of moving while working and wears white glasses.
