@@ -1,9 +1,6 @@
-bios
-====
-
+# Build Right Speaker Bios:
 Contains bio photos and descriptions for each Sparkbox employee.
 
-# Build Right Speaker Bios:
 
 ## **Ben Callahan - Sparkbox - President**
 When he’s not enlightening design teams around the world, Ben is immersed in his role as president of [Sparkbox](http://seesparkbox.com/), a 21-person company that builds responsive websites and web apps while practicing a collaborative, flexible workflow. He’s also the creator of the [Build Responsively](http://buildresponsively.com/) workshop series, writes regularly on [The Foundry](http://seesparkbox.com/foundry), and contributes to publications like _.net Magazine_ and _Smashing Magazine_.
