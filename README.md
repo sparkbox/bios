@@ -17,3 +17,6 @@ As Director of User Experience for Sparkbox, Drew is a steadfast voice for creat
 
 ## **Philip Zastrow - Sparkbox - Developer**
 Philip is a developer specializing in frontend design, CSS, and HTML. As a member of Sparkbox, Philip works with his teammates to build a better and unconstrained web. Philip has maintained a reputation of moving while working and wears white glasses.
+
+## **Neil Renicker - Sparkbox - Developer**
+As a converted print designer, Neil brings a design sensibility to his role as a frontend developer. He's fascinated with the process of teaching and learning programming, and writes regularly about working on the web at [neilrenicker.com](http://neilrenicker.com/). Neil is an admitted nerd, a voracious reader of stuffy nonfiction, and has an unhealthy fixation on workflow automation.
