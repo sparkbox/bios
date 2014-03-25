@@ -23,3 +23,6 @@ As a converted print designer, Neil brings a design sensibility to his role as a
 
 ## **Rob Tarr - Sparkbox - Developer**
 Rob is a developer at Sparkbox in Dayton, Ohio. He spends his days writing JavaScript, HTML, CSS, Ruby, PHP, and building tools that help make the Internet a better place for everyone. Rob also leads [GemCityJS](http://gemcityjs.com), a local JavaScript meetup and co-leads [KidTech](http://kidte.ch), a learning space for kids. When not at work, Rob can usually be found building LEGOs with his kids, hanging out with his wife, hacking on his Arduino, or experimenting with what can be done with JavaScript.
+
+## **Jeremy Loyd - Sparkbox - Creative Director**
+As Creative Director at Sparkbox, Jeremy designs compelling layouts for the responsive web. While constantly refining the process of responsive web design, he and the Sparkbox team believe in creating content-driven websites that are both useable and beautiful on any device. Jeremy’s design work has won several awards and appeared in numerous design blogs and publications including HOW, Wired and Print. In addition to writing for the Sparkbox Foundry, Jeremy also writes for .net magazine and Web Design Tuts Plus.
