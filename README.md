@@ -26,3 +26,6 @@ Rob is a developer at Sparkbox in Dayton, Ohio. He spends his days writing JavaS
 
 ## **Jeremy Loyd - Sparkbox - Creative Director**
 As Creative Director at Sparkbox, Jeremy designs compelling layouts for the responsive web. While constantly refining the process of responsive web design, he and the Sparkbox team believe in creating content-driven websites that are both useable and beautiful on any device. Jeremy’s design work has won several awards and appeared in numerous design blogs and publications including HOW, Wired and Print. In addition to writing for the Sparkbox Foundry, Jeremy also writes for .net magazine and Web Design Tuts Plus.
+
+## **Ethan Muller - Sparkbox - Developer**
+Being a developer with a design background, Ethan has a fondness for both beautiful code and smart design. Ethan spends most of his days writing maintainable frontend code to delight users, clients, and fellow developers alike. He spends his other days making music, playing video games, and [trying to be funny on Twitter.](https://twitter.com/ethanmuller)
