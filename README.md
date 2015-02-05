@@ -18,9 +18,6 @@ As Director of User Experience for Sparkbox, Drew is a steadfast voice for creat
 ## **Philip Zastrow - Sparkbox - Developer**
 Philip is a developer specializing in frontend design, CSS, and HTML. As a member of Sparkbox, Philip works with his teammates to build a better and unconstrained web. Whether dancing at a standing desk or grooving while sitting, Philip is always on the move, rocking a sweet pair of specs.
 
-## **Neil Renicker - Sparkbox - Developer**
-As a converted print designer, Neil brings a design sensibility to his role as a frontend developer. He's fascinated with the process of teaching and learning programming, and writes regularly about working on the web at [neilrenicker.com](http://neilrenicker.com/). Neil is an admitted nerd, a voracious reader of stuffy nonfiction, and has an unhealthy fixation on workflow automation.
-
 ## **Rob Tarr - Sparkbox - Developer**
 Rob is a developer at Sparkbox in Dayton, Ohio. He spends his days writing JavaScript, HTML, CSS, Ruby, PHP, and building tools that help make the Internet a better place for everyone. Rob also leads [GemCityJS](http://gemcityjs.com), a local JavaScript meetup and co-leads [KidTech](http://kidte.ch), a learning space for kids. When not at work, Rob can usually be found building LEGOs with his kids, hanging out with his wife, hacking on his Arduino, or experimenting with what can be done with JavaScript.
 
