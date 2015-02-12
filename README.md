@@ -9,6 +9,9 @@ or
 
 President of [Sparkbox](http://seesparkbox.com/) and founder of the [Build Right workshop series](http://buildright.io/), Ben shares his ideas about the web on the [Sparkbox Foundry](http://seesparkbox.com/foundry/) and other [leading](http://webstandardssherpa.com/about/authors/ben-callahan) [industry](http://www.creativebloq.com/business/what-responsive-web-design-means-team-organisation-11410353) [blogs](http://mobile.smashingmagazine.com/2011/09/26/content-prototyping-in-responsive-web-design/). He’s incredibly grateful for the [team](http://seesparkbox.com/team) at Sparkbox as they pioneer new responsive web design techniques and he continues to push for great user experiences outside the context of specific devices. You can find him [speaking](http://uxim14.uie.com/workshops/ben-callahan) [around](http://schedule.sxsw.com/2014/events/event_IAP20315) [the world](http://frontenddesignconference.com/portland), [rambling on Twitter](http://twitter.com/bencallahan), [tinkering with his personal site](http://bencallahan.com/), or [splitting wood in his backyard for next winter](http://instagram.com/p/j7r_TqA1MP/).
 
+## **Rob Harr - Sparkbox - Vice President**
+As Vice President of Sparkbox, Rob is responsible for the operations and financials of the company. With a background in software development, Rob is always ready to challenge the development process. On any given day, Rob meets with prospective clients, works with employees, and continues to evolve the business of Sparkbox.
+
 ## **Adam Simpson - Sparkbox - Developer**
 Adam Simpson is a frontend developer at Sparkbox with experience in Javascript, PHP, Ruby, and web design, and he’s passionate about semantic markup, crafting quality code, and creating accessible experiences regardless of device. Adam is a constant evangelist for efficiency and creativity in workflow and development.
 
