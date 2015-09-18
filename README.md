@@ -37,3 +37,7 @@ Daniel is a developer at Sparkbox with an wide range of experience in both front
 
 ## **Melissa Taylor - Sparkbox - Planner**
 As a Planner at Sparkbox, Melissa’s role consists of ensuring projects run smoothly while meeting business goals and user objectives. With a background in finance and web analytics, she takes a special interest in measuring website performance and connecting overall business strategy into every web project. Most of all, she loves providing exceptional service and clear communication to clients.
+
+## **Nathan Rambeck - Sparkbox - Developer**
+
+Nathan came to Sparkbox in 2014 with over 12 years of experience building solutions on the web. That experience includes architecting content management solutions in PHP and Drupal, creating responsive interfaces in the browser and optimizing performance on both the server and client. He loves keeping pace with the advancement of web tech and participating in it through open source contributions. Nathan is founder of 2 meetups, [Dayton Web Developers](http://www.meetup.com/dayton-web-developers/), which he has run since 2007 and the [Dayton Drupal User Group](http://www.meetup.com/drupal-dayton/). He'll occassionally tweet as [@nrambeck](https://twitter.com/nrambeck).
