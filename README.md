@@ -34,3 +34,6 @@ Ryan Cromwell is the Technical Director at Sparkbox with nearly 15 years of expe
 
 ## **Daniel Flynn - Sparkbox - Developer**
 Daniel is a developer at Sparkbox with an wide range of experience in both frontend and backend technologies. He spends most of his time sipping coffee, writing code, and debating design structures. In his free time he is hanging out with his wife, watching Netflix with his dog, and making sweet, sweet music with his guitars. You can find Daniel [attempting to twitter](https://twitter.com/dflynn15) and pretending to be artsy.
+
+## **Melissa Taylor - Sparkbox - Planner**
+As a Planner at Sparkbox, Melissa’s role consists of ensuring projects run smoothly while meeting business goals and user objectives. With a background in finance and web analytics, she takes a special interest in measuring website performance and connecting overall business strategy into every web project. Most of all, she loves providing exceptional service and clear communication to clients.
