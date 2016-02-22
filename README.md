@@ -41,3 +41,30 @@ As a Planner at Sparkbox, Melissa’s role consists of ensuring projects run smo
 ## **Nathan Rambeck - Sparkbox - Developer**
 
 Nathan came to Sparkbox in 2014 with over 12 years of experience building solutions on the web. That experience includes architecting content management solutions in PHP and Drupal, creating responsive interfaces in the browser and optimizing performance on both the server and client. He loves keeping pace with the advancement of web tech and participating in it through open source contributions. Nathan is founder of 2 meetups, [Dayton Web Developers](http://www.meetup.com/dayton-web-developers/), which he has run since 2007 and the [Dayton Drupal User Group](http://www.meetup.com/drupal-dayton/). He'll occasionally tweet as [@nrambeck](https://twitter.com/nrambeck).
+
+## **Proposal Bios Below**
+
+## **Ben Callahan, President**
+Ben is President and Cofounder of Sparkbox. Recognized as an expert in standards-based web development, Ben’s background as a software engineer and website designer gives him a valuable balance of technical skill and creativity. His expertise allows him to create findable, accessible, large-scale, and fully standards-compliant websites. Ben’s passion is doing things right. He believes a problem isn’t really solved until it’s solved in the best-possible way.
+
+## **Rob Harr, Vice President**
+Rob is a Partner and Vice President at Sparkbox. With many years of experience in the software development and support industry, Rob has gained valuable expertise that brings a unique perspective to web development. Rob started his career working on enterprise research solutions, then entered the financial industry with several national banks as a security consultant. He has successfully served as a senior consultant for banking and financial products. Rob’s technical expertise and his drive to use the best technology available make him a crucial member of the Sparkbox team.
+
+## **Jeremy Loyd, Creative Director**
+Jeremy is Creative Director and Cofounder of Sparkbox. He has more than ten years of experience in the design field, with expertise in print, branding, and web design. His passion is distilling the core message and activities of a company into a single touchpoint. Jeremy’s expertise is crafting brands, standards manuals, and websites. 
+
+## **Ryan Cromwell, Technical Director**
+Ryan Cromwell is the Technical Director at Sparkbox with more than ten years of experience delivering solutions ranging from real-time customer loyalty systems and elegant user experiences to streamlined statistical process control software. Ryan’s passion is anchored in delivering software others enjoy using. He has also established himself as a strong software community ally.
+
+## **Drew Clemens, User Experience Director**
+Drew is the User Experience Director at Sparkbox. With experience in retail design, product development, and a keen eye for creative communications, Drew manages projects with a holistic and hands-on approach. He brings a passion for combining strategic planning, fresh design, clear content, and cutting-edge technology. This passion helps us build sites that are as potent in their communication of message and brand as they are beautiful in their technical execution.
+
+## **Emily Gray, Content Strategist**
+Emily oversees the content strategy at Sparkbox. She has experience in major movie studio promotion, electric utility publicity, as well as website creation and management, and collegiate-level teaching. Emily raises the bar in terms of intentionality, attention to detail, and getting things done right. Emily’s passion lies in words, the web, and making the two work together to meet client and user needs. Our clients rely on Emily for her organization, structure, and expertise in information architecture.
+
+## **Daniel Flynn, Developer**
+Daniel Flynn is a developer at Sparkbox with a bachelor’s degree in computer science from Virginia Tech. He has more than five years of experience providing client solutions ranging from eCommerce platforms and creative marketing experiences to deep decision platforms for healthcare. Daniel brings a passion for clean, concise code and for helping clients better understand the products they are receiving.
+
+## **Nathan Rambeck, Developer**
+Nathan is a developer at Sparkbox with more than 10 years in the web industry. That experience includes contracting with large newspaper and magazine publishers to implement CMS solutions, execute massive data migrations, and conduct performance audits. He has also served as a consultant in architecting frontend responsive designs, especially for complex eCommerce sites. At Sparkbox, Nathan leads development teams in complex projects with an eye to teach others and push innovation.
+
