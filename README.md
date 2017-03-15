@@ -26,20 +26,13 @@ As Creative Director at Sparkbox, Jeremy designs compelling layouts for the resp
 ## **Ethan Muller - Sparkbox - Developer**
 Being a developer with a design background, Ethan has a fondness for both beautiful code and smart design. Ethan spends most of his days writing maintainable frontend code to delight users, clients, and fellow developers alike. He spends his other days making music, playing video games, and [trying to be funny on Twitter.](https://twitter.com/ethanmuller)
 
-## **Katie Kovalcin - Sparkbox - Designer**
-Katie is a designer at Sparkbox. She is the 2014 [Net Awards](https://thenetawards.com) Young Designer of the Year, a teacher for [Girl Develop It](https://girldevelopit.com), and a writer for publications like .net magazine and [A List Apart](https://alistapart.com). She strongly values collaboration with her teammates, performance in design, and beautifully smart design systems. She loves her dog and iced coffee more than anything formerly mentioned.
-
 ## **Ryan Cromwell - Sparkbox - Technical Director**
 Ryan Cromwell is the Technical Director at Sparkbox with nearly 15 years of experience delivering solutions ranging from real-time customer loyalty systems and elegant user experiences to streamlined statistical process control software.  Having worked with passionate, high-performing teams, Ryan ventured into the world of [Scrum.org](https://www.scrum.org/user-profile/userid/188) training and Agile coaching to replicate those amazing experiences.  Ryan’s passion remains delivering software others enjoy using.  He is co-founder of [Dayton Clean Coders](http://daytoncleancoders.com), the Dayton Elixir virtual Meetup, co-organizer of [Southwest Ohio GiveCamp](http://southwestohiogivecamp.org), and all around software community ally.  You can find Ryan at http://cromwellhaus.com and on Twitter as [@cromwellryan](https://twitter.com/cromwellryan).
 
 ## **Daniel Flynn - Sparkbox - Developer**
 Daniel is a developer at Sparkbox with an wide range of experience in both frontend and backend technologies. He spends most of his time sipping coffee, writing code, debating software architecture structures, and speaking in Emoji. In his free time he is hanging out with his wife, watching Netflix with his dog, and making sweet, sweet music with his guitars. You can find Daniel [attempting to twitter](https://twitter.com/dflynn15) and pretending to be artsy.
 
-## **Melissa Taylor - Sparkbox - Planner**
-As a Planner at Sparkbox, Melissa’s role consists of ensuring projects run smoothly while meeting business goals and user objectives. With a background in finance and web analytics, she takes a special interest in measuring website performance and connecting overall business strategy into every web project. Most of all, she loves providing exceptional service and clear communication to clients.
-
 ## **Nathan Rambeck - Sparkbox - Developer**
-
 Nathan came to Sparkbox in 2014 with over 12 years of experience building solutions on the web. That experience includes architecting content management solutions in PHP and Drupal, creating responsive interfaces in the browser and optimizing performance on both the server and client. He loves keeping pace with the advancement of web tech and participating in it through open source contributions. Nathan is founder of 2 meetups, [Dayton Web Developers](http://www.meetup.com/dayton-web-developers/), which he has run since 2007 and the [Dayton Drupal User Group](http://www.meetup.com/drupal-dayton/). He'll occasionally tweet as [@nrambeck](https://twitter.com/nrambeck).
 
 ## **Proposal Bios Below**
@@ -51,7 +44,7 @@ Ben is President and Cofounder of Sparkbox. Recognized as an expert in standards
 Rob is a Partner and Vice President at Sparkbox. With many years of experience in the software development and support industry, Rob has gained valuable expertise that brings a unique perspective to web development. Rob started his career working on enterprise research solutions, then entered the financial industry with several national banks as a security consultant. He has successfully served as a senior consultant for banking and financial products. Rob’s technical expertise and his drive to use the best technology available make him a crucial member of the Sparkbox team.
 
 ## **Jeremy Loyd, Creative Director**
-Jeremy is Creative Director and Cofounder of Sparkbox. He has more than ten years of experience in the design field, with expertise in print, branding, and web design. His passion is distilling the core message and activities of a company into a single touchpoint. Jeremy’s expertise is crafting brands, standards manuals, and websites. 
+Jeremy is Creative Director and Cofounder of Sparkbox. He has more than ten years of experience in the design field, with expertise in print, branding, and web design. His passion is distilling the core message and activities of a company into a single touchpoint. Jeremy’s expertise is crafting brands, standards manuals, and websites.
 
 ## **Ryan Cromwell, Technical Director**
 Ryan Cromwell is the Technical Director at Sparkbox with more than ten years of experience delivering solutions ranging from real-time customer loyalty systems and elegant user experiences to streamlined statistical process control software. Ryan’s passion is anchored in delivering software others enjoy using. He has also established himself as a strong software community ally.
@@ -67,4 +60,3 @@ Daniel Flynn is a developer at Sparkbox with a bachelor’s degree in computer s
 
 ## **Nathan Rambeck, Developer**
 Nathan is a developer at Sparkbox with more than 10 years in the web industry. That experience includes contracting with large newspaper and magazine publishers to implement CMS solutions, execute massive data migrations, and conduct performance audits. He has also served as a consultant in architecting frontend responsive designs, especially for complex eCommerce sites. At Sparkbox, Nathan leads development teams in complex projects with an eye to teach others and push innovation.
-
