@@ -56,7 +56,7 @@ Ryan Cromwell is the Technical Director at Sparkbox with more than ten years of 
 ## **Drew Clemens, User Experience Director**
 Drew is the User Experience Director at Sparkbox. With experience in retail design, product development, and a keen eye for creative communications, Drew manages projects with a holistic and hands-on approach. He brings a passion for combining strategic planning, fresh design, clear content, and cutting-edge technology. This passion helps us build sites that are as potent in their communication of message and brand as they are beautiful in their technical execution.
 
-## **Emily Gray, Content Strategist**
+## **Emily Gray, Content Director**
 Emily oversees the content strategy at Sparkbox. She has experience in major movie studio promotion, electric utility publicity, as well as website creation and management, and collegiate-level teaching. Emily raises the bar in terms of intentionality, attention to detail, and getting things done right. Emily’s passion lies in words, the web, and making the two work together to meet client and user needs. Our clients rely on Emily for her organization, structure, and expertise in information architecture.
 
 ## **Daniel Flynn, Developer**
