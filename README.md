@@ -15,7 +15,7 @@ Adam Simpson is a frontend developer at Sparkbox with experience in Javascript, 
 As Director of User Experience for Sparkbox, Drew is a steadfast voice for creating usable and useful work. With background in design, content strategy, and project management, Drew capitalizes on a love for people and content to drive projects toward clear communication. He has made a living on empathy, charm, and an uncanny ability for telling bad jokes.
 
 ## **Philip Zastrow - Sparkbox - Developer**
-Philip is a developer specializing in frontend design, CSS, and HTML. As a member of Sparkbox, Philip works with his teammates to build a better and unconstrained web. Whether dancing at a standing desk or grooving while sitting, Philip is always on the move, rocking a sweet pair of specs.
+Harboring a powerful need to push pixels and punch code, Philip is a designer and developer that needs a healthy mixture of both. At [Sparkbox](https://seesparkbox.com), Philip’s title may be Frontend Designer, but around the office he is known as the Sassmaster. But that term isn’t because of sarcastic wit, rather it’s for Philip’s depth of knowledge and love for all things CSS. Philip loves tinkering with new concepts and discovering unique solutions, all while dancing at his standing desk.
 
 ## **Rob Tarr - Sparkbox - Developer**
 Rob is a developer at Sparkbox in Dayton, Ohio. He spends his days writing JavaScript, HTML, CSS, and building tools that help make the Internet a better place for everyone. Rob also co-leads [GemCityJS](http://gemcityjs.com), a local JavaScript meetup. When not at work, Rob can usually be found hanging out with his wife and kids, building Node powered robots, or out somewhere on a bike.
