@@ -44,7 +44,7 @@ Nathan came to Sparkbox in 2014 with over 12 years of experience building soluti
 
 ## **Catherine Meade - Sparkbox - Developer**
 
-Catherine [builds responsive websites](https://github.com/catheraaine) up and down the stack with technologies like CSS, Sass, JS, React, Craft CMS, PHP, Node, and more. She has a B.S.A. from [Miami University](https://miamioh.edu/) in Art Education. While Catherine no longer teaches high school, her strong passion for education has never left; She spends a good amount of time volunteering with [Girl Develop It Dayton](http://gdidayton.com/), sitting on the leadership team and teaching code classes. Her other hobbies include reading, video games, tabletop games, drawing, and making cat jokes. Twitter (and all the other things) as [@catheraaine](https://twitter.com/catheraaine). 
+Catherine [builds responsive websites](https://github.com/catheraaine) up and down the stack with technologies like CSS, Sass, JS, React, Craft CMS, PHP, Node, and more. She has a B.S.A. from [Miami University](https://miamioh.edu/) in Art Education. While Catherine no longer teaches high school, her strong passion for education has never left; she spends a good amount of time volunteering with [Girl Develop It Dayton](http://gdidayton.com/), sitting on the leadership team and teaching code classes. Her other hobbies include reading, video games, tabletop games, drawing, and making cat jokes. Twitter (and all the other things) as [@catheraaine](https://twitter.com/catheraaine). 
 
 ## **Proposal Bios Below**
 
