@@ -26,20 +26,13 @@ As Creative Director at Sparkbox, Jeremy designs compelling layouts for the resp
 ## **Ethan Muller - Sparkbox - Developer**
 Being a developer with a design background, Ethan has a fondness for both beautiful code and smart design. Ethan spends most of his days writing maintainable frontend code to delight users, clients, and fellow developers alike. He spends his other days making music, playing video games, and [trying to be funny on Twitter.](https://twitter.com/ethanmuller)
 
-## **Katie Kovalcin - Sparkbox - Designer**
-Katie is a designer at Sparkbox. She is the 2014 [Net Awards](https://thenetawards.com) Young Designer of the Year, a teacher for [Girl Develop It](https://girldevelopit.com), and a writer for publications like .net magazine and [A List Apart](https://alistapart.com). She strongly values collaboration with her teammates, performance in design, and beautifully smart design systems. She loves her dog and iced coffee more than anything formerly mentioned.
-
 ## **Ryan Cromwell - Sparkbox - Technical Director**
 Ryan Cromwell is the Technical Director at Sparkbox with nearly 15 years of experience delivering solutions ranging from real-time customer loyalty systems and elegant user experiences to streamlined statistical process control software.  Having worked with passionate, high-performing teams, Ryan ventured into the world of [Scrum.org](https://www.scrum.org/user-profile/userid/188) training and Agile coaching to replicate those amazing experiences.  Ryan’s passion remains delivering software others enjoy using.  He is co-founder of [Dayton Clean Coders](http://daytoncleancoders.com), the Dayton Elixir virtual Meetup, co-organizer of [Southwest Ohio GiveCamp](http://southwestohiogivecamp.org), and all around software community ally.  You can find Ryan at http://cromwellhaus.com and on Twitter as [@cromwellryan](https://twitter.com/cromwellryan).
 
 ## **Daniel Flynn - Sparkbox - Developer**
 Daniel is a developer at Sparkbox with an wide range of experience in both frontend and backend technologies. He spends most of his time sipping coffee, writing code, debating software architecture structures, and speaking in Emoji. In his free time he is hanging out with his wife, watching Netflix with his dog, and making sweet, sweet music with his guitars. You can find Daniel [attempting to twitter](https://twitter.com/dflynn15) and pretending to be artsy.
 
-## **Melissa Taylor - Sparkbox - Planner**
-As a Planner at Sparkbox, Melissa’s role consists of ensuring projects run smoothly while meeting business goals and user objectives. With a background in finance and web analytics, she takes a special interest in measuring website performance and connecting overall business strategy into every web project. Most of all, she loves providing exceptional service and clear communication to clients.
-
 ## **Nathan Rambeck - Sparkbox - Developer**
-
 Nathan came to Sparkbox in 2014 with over 12 years of experience building solutions on the web. That experience includes architecting content management solutions in PHP and Drupal, creating responsive interfaces in the browser and optimizing performance on both the server and client. He loves keeping pace with the advancement of web tech and participating in it through open source contributions. Nathan is founder of 2 meetups, [Dayton Web Developers](http://www.meetup.com/dayton-web-developers/), which he has run since 2007 and the [Dayton Drupal User Group](http://www.meetup.com/drupal-dayton/). He'll occasionally tweet as [@nrambeck](https://twitter.com/nrambeck).
 
 ## **Catherine Meade - Sparkbox - Developer**
