@@ -42,6 +42,10 @@ As a Planner at Sparkbox, Melissa’s role consists of ensuring projects run smo
 
 Nathan came to Sparkbox in 2014 with over 12 years of experience building solutions on the web. That experience includes architecting content management solutions in PHP and Drupal, creating responsive interfaces in the browser and optimizing performance on both the server and client. He loves keeping pace with the advancement of web tech and participating in it through open source contributions. Nathan is founder of 2 meetups, [Dayton Web Developers](http://www.meetup.com/dayton-web-developers/), which he has run since 2007 and the [Dayton Drupal User Group](http://www.meetup.com/drupal-dayton/). He'll occasionally tweet as [@nrambeck](https://twitter.com/nrambeck).
 
+## **Catherine Meade - Sparkbox - Developer**
+
+Catherine [builds responsive websites](https://github.com/catheraaine) up and down the stack with technologies like CSS, Sass, JS, React, Craft CMS, PHP, Node, and more. She has a B.S.A. from [Miami University](https://miamioh.edu/) in Art Education. While Catherine no longer teaches high school, her strong passion for education has never left; she spends a good amount of time volunteering with [Girl Develop It Dayton](http://gdidayton.com/), sitting on the leadership team and teaching code classes. Her other hobbies include reading, video games, tabletop games, drawing, and making cat jokes. Twitter (and all the other things) as [@catheraaine](https://twitter.com/catheraaine). 
+
 ## **Proposal Bios Below**
 
 ## **Ben Callahan, President**
@@ -51,7 +55,7 @@ Ben is President and Cofounder of Sparkbox. Recognized as an expert in standards
 Rob is a Partner and Vice President at Sparkbox. With many years of experience in the software development and support industry, Rob has gained valuable expertise that brings a unique perspective to web development. Rob started his career working on enterprise research solutions, then entered the financial industry with several national banks as a security consultant. He has successfully served as a senior consultant for banking and financial products. Rob’s technical expertise and his drive to use the best technology available make him a crucial member of the Sparkbox team.
 
 ## **Jeremy Loyd, Creative Director**
-Jeremy is Creative Director and Cofounder of Sparkbox. He has more than ten years of experience in the design field, with expertise in print, branding, and web design. His passion is distilling the core message and activities of a company into a single touchpoint. Jeremy’s expertise is crafting brands, standards manuals, and websites. 
+Jeremy is Creative Director and Cofounder of Sparkbox. He has more than ten years of experience in the design field, with expertise in print, branding, and web design. His passion is distilling the core message and activities of a company into a single touchpoint. Jeremy’s expertise is crafting brands, standards manuals, and websites.
 
 ## **Ryan Cromwell, Technical Director**
 Ryan Cromwell is the Technical Director at Sparkbox with more than ten years of experience delivering solutions ranging from real-time customer loyalty systems and elegant user experiences to streamlined statistical process control software. Ryan’s passion is anchored in delivering software others enjoy using. He has also established himself as a strong software community ally.
@@ -67,4 +71,3 @@ Daniel Flynn is a developer at Sparkbox with a bachelor’s degree in computer s
 
 ## **Nathan Rambeck, Developer**
 Nathan is a developer at Sparkbox with more than 10 years in the web industry. That experience includes contracting with large newspaper and magazine publishers to implement CMS solutions, execute massive data migrations, and conduct performance audits. He has also served as a consultant in architecting frontend responsive designs, especially for complex eCommerce sites. At Sparkbox, Nathan leads development teams in complex projects with an eye to teach others and push innovation.
-
