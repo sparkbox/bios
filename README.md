@@ -14,8 +14,8 @@ Adam Simpson is a frontend developer at Sparkbox with experience in Javascript, 
 ## **Drew Clemens - Sparkbox - UX Director**
 As Director of User Experience for Sparkbox, Drew is a steadfast voice for creating usable and useful work. With background in design, content strategy, and project management, Drew capitalizes on a love for people and content to drive projects toward clear communication. He has made a living on empathy, charm, and an uncanny ability for telling bad jokes.
 
-## **Philip Zastrow - Sparkbox - Developer**
-Harboring a powerful need to push pixels and punch code, Philip is a designer and developer that needs a healthy mixture of both. At [Sparkbox](https://seesparkbox.com), Philip’s title may be Frontend Designer, but around the office he is known as the Sassmaster. But that term isn’t because of sarcastic wit, rather it’s for Philip’s depth of knowledge and love for all things CSS. Philip loves tinkering with new concepts and discovering unique solutions, all while dancing at his standing desk.
+## **Philip Zastrow - Sparkbox - Frontend Designer**
+Harboring a powerful need to push pixels and punch code, Philip is a designer and developer who needs a healthy mixture of both. At [Sparkbox](https://seesparkbox.com), Philip’s title may be Frontend Designer, but around the office he is known as the Sassmaster. That term isn’t because of sarcastic wit; rather, it’s for Philip’s depth of knowledge and love for all things CSS. Philip loves tinkering with new concepts and discovering unique solutions, all while dancing at his standing desk.
 
 ## **Rob Tarr - Sparkbox - Developer**
 Rob is a developer at Sparkbox in Dayton, Ohio. He spends his days writing JavaScript, HTML, CSS, and building tools that help make the Internet a better place for everyone. Rob also co-leads [GemCityJS](http://gemcityjs.com), a local JavaScript meetup. When not at work, Rob can usually be found hanging out with his wife and kids, building Node powered robots, or out somewhere on a bike.
@@ -26,7 +26,7 @@ As Creative Director at Sparkbox, Jeremy designs compelling layouts for the resp
 ## **Ethan Muller - Sparkbox - Developer**
 Being a developer with a design background, Ethan has a fondness for both beautiful code and smart design. Ethan spends most of his days writing maintainable frontend code to delight users, clients, and fellow developers alike. He spends his other days making music, playing video games, and [trying to be funny on Twitter.](https://twitter.com/ethanmuller)
 
-##**Katie Kovalcin - Sparkbox - Designer**
+## **Katie Kovalcin - Sparkbox - Designer**
 Katie is a designer at Sparkbox. She is the 2014 [Net Awards](https://thenetawards.com) Young Designer of the Year, a teacher for [Girl Develop It](https://girldevelopit.com), and a writer for publications like .net magazine and [A List Apart](https://alistapart.com). She strongly values collaboration with her teammates, performance in design, and beautifully smart design systems. She loves her dog and iced coffee more than anything formerly mentioned.
 
 ## **Ryan Cromwell - Sparkbox - Technical Director**
