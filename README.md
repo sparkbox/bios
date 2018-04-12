@@ -37,7 +37,10 @@ Nathan came to Sparkbox in 2014 with over 12 years of experience building soluti
 
 ## **Catherine Meade - Sparkbox - Developer**
 
-Catherine [builds responsive websites](https://github.com/catheraaine) up and down the stack, focusing recently on a single enterprise level design system. She has a B.S.A. from [Miami University](https://miamioh.edu/) in Art Education. While Catherine no longer teaches high school, her strong passion for education has never left; she spends a good amount of time volunteering with [Girl Develop It Dayton](http://gdidayton.com/), sitting on the leadership team and teaching code classes. Her other hobbies include reading, video games, tabletop games, drawing, and making cat jokes. Twitter (and all the other things) as [@catheraaine](https://twitter.com/catheraaine). 
+Catherine [builds responsive websites](https://github.com/catheraaine) up and down the stack, focusing recently on a single enterprise level design system. She has a B.S.A. from [Miami University](https://miamioh.edu/) in Art Education. While Catherine no longer teaches high school, her strong passion for education has never left; she spends a good amount of time volunteering with [Girl Develop It Dayton](http://gdidayton.com/), sitting on the leadership team and teaching code classes. Her other hobbies include reading, video games, tabletop games, drawing, and making cat jokes. Twitter (and all the other things) as [@catheraaine](https://twitter.com/catheraaine).
+
+## **Kasey Bonifacio - Sparkbox - Developer**
+Kasey has been building the web for the past 7 years. Starting out as a web/print designer, Kasey quickly discovered she loves to build things with code. Since joining [Sparkbox](https://seesparkbox.com/) in 2015, her career has focused on accessible, frontend development and building usable design systems. Passion projects include creating [girlscancode.io](http://girlscancode.io/), later reorganizing the curriculum for a wider audience via a [Library Workshop](https://sparkbox.github.io/building-websites-workshop/). In her free time, Kasey likes to spend time with her family, cook, and renovate her old house. Read what Kasey has to say on the [Sparkbox Foundry](https://seesparkbox.com/foundry/author/kasey_bonifacio) and see what she has to share on [CodePen](https://codepen.io/kaseybon/).
 
 ## **Proposal Bios Below**
 
