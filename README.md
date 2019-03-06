@@ -41,6 +41,9 @@ Catherine [builds responsive websites](https://github.com/catheraaine) up and do
 ## **Kasey Bonifacio - Sparkbox - Developer**
 Kasey has been building the web for the past 7 years. Starting out as a web/print designer, Kasey quickly discovered she loves to build things with code. Since joining [Sparkbox](https://seesparkbox.com/) in 2015, her career has focused on accessible, frontend development and building usable design systems. Passion projects include creating [girlscancode.io](http://girlscancode.io/), later reorganizing the curriculum for a wider audience via a [Library Workshop](https://sparkbox.github.io/building-websites-workshop/). In her free time, Kasey likes to spend time with her family, cook, and renovate her old house. Read what Kasey has to say on the [Sparkbox Foundry](https://seesparkbox.com/foundry/author/kasey_bonifacio) and see what she has to share on [CodePen](https://codepen.io/kaseybon/).
 
+## **Heather Taylor - Sparkbox - Developer**
+Heather Taylor is a frontend developer at [Sparkbox](https://seesparkbox.com) who transitioned her career path from graphic design into web development. Heather is a uniquely balanced right-brained / left-brained person who expresses her creative side via CSS, while her analytical side loves writing clean, accessible code complete with clear, concise documentation. An advocate for inclusive design practices, Heather is an [IAAP Certified Professional in Accessibility Core Competencies](https://www.accessibilityassociation.org/cpacccertification).
+
 ## **Proposal Bios Below**
 
 ## **Ben Callahan, President**
