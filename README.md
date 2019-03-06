@@ -41,6 +41,9 @@ Catherine [builds responsive websites](https://github.com/catheraaine) up and do
 ## **Kasey Bonifacio - Sparkbox - Developer**
 Kasey has been building the web for the past 7 years. Starting out as a web/print designer, Kasey quickly discovered she loves to build things with code. Since joining [Sparkbox](https://seesparkbox.com/) in 2015, her career has focused on accessible, frontend development and building usable design systems. Passion projects include creating [girlscancode.io](http://girlscancode.io/), later reorganizing the curriculum for a wider audience via a [Library Workshop](https://sparkbox.github.io/building-websites-workshop/). In her free time, Kasey likes to spend time with her family, cook, and renovate her old house. Read what Kasey has to say on the [Sparkbox Foundry](https://seesparkbox.com/foundry/author/kasey_bonifacio) and see what she has to share on [CodePen](https://codepen.io/kaseybon/).
 
+## **Lindsey Wild - Sparkbox - Developer**
+Lindsey Wild is a full-stack developer at Sparkbox's Pittsburgh office. She's worked on projects including an enterprise-level design system, various multi-million dollar e-commerce websites, and dynamic web applications. She's held developer positions for companies such as DICK'S Sporting Goods and Giant Eagle and has more than six years of front-end development experience. In her free time, you can catch her on the volleyball court, watching a rock concert, or cheering on the Cleveland Indians.
+
 ## **Proposal Bios Below**
 
 ## **Ben Callahan, President**
