@@ -41,6 +41,9 @@ Catherine [builds responsive websites](https://github.com/catheraaine) up and do
 ## **Kasey Bonifacio - Sparkbox - Developer**
 Kasey has been building the web for the past 7 years. Starting out as a web/print designer, Kasey quickly discovered she loves to build things with code. Since joining [Sparkbox](https://seesparkbox.com/) in 2015, her career has focused on accessible, frontend development and building usable design systems. Passion projects include creating [girlscancode.io](http://girlscancode.io/), later reorganizing the curriculum for a wider audience via a [Library Workshop](https://sparkbox.github.io/building-websites-workshop/). In her free time, Kasey likes to spend time with her family, cook, and renovate her old house. Read what Kasey has to say on the [Sparkbox Foundry](https://seesparkbox.com/foundry/author/kasey_bonifacio) and see what she has to share on [CodePen](https://codepen.io/kaseybon/).
 
+## **Bryan Braun - Sparkbox - Developer**
+Bryan Braun is a developer at Sparkbox. Bryan’s work has been featured in the *Washington Post*, *Daring Fireball*, *Smashing Magazine*, and the *Discovery Channel*. He is always working on some sort of [side-project](https://www.bryanbraun.com/projects/) and shares what he learns through his [writing](https://www.bryanbraun.com/archives), [speaking](https://www.bryanbraun.com/speaking), and [open source contributions](https://github.com/bryanbraun). When he’s not writing code or tweaking fonts, you can find him riding his bicycle or building Lego worlds with his kids.
+
 ## **Proposal Bios Below**
 
 ## **Ben Callahan, President**
