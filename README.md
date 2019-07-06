@@ -69,3 +69,6 @@ Daniel Flynn is a developer at Sparkbox with a bachelor’s degree in computer s
 
 ## **Nathan Rambeck, Developer**
 Nathan is a developer at Sparkbox with more than 10 years in the web industry. That experience includes contracting with large newspaper and magazine publishers to implement CMS solutions, execute massive data migrations, and conduct performance audits. He has also served as a consultant in architecting frontend responsive designs, especially for complex eCommerce sites. At Sparkbox, Nathan leads development teams in complex projects with an eye to teach others and push innovation.
+
+## **Patrick Fulton, Developer**
+Patrick Fulton is a developer at Sparkbox, and has been writing code - in one form or another - since 1997. Mostly HTML, CSS, and JavaScript, but also Ruby on Rails, PHP, and a sprinkling of C# along the way. He is a frequent public speaker and writer on web development, and is also a co-organizer of Refresh Pittsburgh, a local dev and design meetup.
